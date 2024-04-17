@@ -1,0 +1,14 @@
+{
+  "name": "social-media-website",
+  "version": "1.0.0",
+  "description": "![Memories](https://i.ibb.co/7CmVbCW/image.png)",
+  "main": "playground-1.mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navdish",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
